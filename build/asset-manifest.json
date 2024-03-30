@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dab7133.css",
+    "main.js": "/static/js/main.eb294d0e.js",
+    "static/media/israelAndreo.mp4": "/static/media/israelAndreo.1529be14f2ed85e28442.mp4",
+    "static/media/silvio.jpg": "/static/media/silvio.17b2bf3536a473ed49aa.jpg",
+    "static/media/sitio.jpg": "/static/media/sitio.eaa2f83edef7cd3eb64e.jpg",
+    "static/media/silvana.jpg": "/static/media/silvana.9c98b2145ebed7b705d1.jpg",
+    "static/media/sonia.jpg": "/static/media/sonia.b45cb7c83be0fc5f937a.jpg",
+    "static/media/sandro.jpg": "/static/media/sandro.24683d09bf035b6f463c.jpg",
+    "static/media/samira.jpg": "/static/media/samira.28f1634aed18f10afb3d.jpg",
+    "static/media/israel.jpg": "/static/media/israel.193edfc0389c4352e8a6.jpg",
+    "static/media/svg-1.svg": "/static/media/svg-1.0e160cfe89a7747682853fd8f719fd08.svg",
+    "index.html": "/index.html",
+    "main.8dab7133.css.map": "/static/css/main.8dab7133.css.map",
+    "main.eb294d0e.js.map": "/static/js/main.eb294d0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dab7133.css",
+    "static/js/main.eb294d0e.js"
+  ]
+}
