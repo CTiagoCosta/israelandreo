@@ -11,7 +11,8 @@ export const homeObjOne = {
    altme: 'Sobre',
    dark: true,
    primary: true,
-   darkText: false
+   darkText: false,
+   button: false
 };
 
 
@@ -29,7 +30,8 @@ export const homeObjTwo = {
    alt: 'Gallery',
    dark: false,
    primary: false,
-   darkText: true
+   darkText: true,
+   button: true
 };
 
 export const homeObjThree = {
@@ -45,4 +47,6 @@ export const homeObjThree = {
    alt: 'Tecnologias',
    primary: false,
    darkText: true
+ 
+   
 };

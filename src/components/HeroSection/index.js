@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Israel from '../../Videos/israelAndreo.mp4';
+import IsraelAndreo from '../../Videos/israel.mp4';
 import { 
    HeroContainer,
    HeroBg,
@@ -16,7 +16,7 @@ const HeroSection = () => {
    return (
       <HeroContainer id='home'>
          <HeroBg>
-            <VideoBg autoPlay loop muted={false} src={Israel} type='israelAndreo/mp4' />
+            <VideoBg autoPlay loop muted={true} src={IsraelAndreo} type='israelAndreo/mp4' />
          </HeroBg>
       </HeroContainer>
    )

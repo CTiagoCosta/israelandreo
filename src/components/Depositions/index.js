@@ -1,6 +1,6 @@
 import React from 'react'
 import Sonia from '../../images/sonia.jpg'
-import Silvana from '../../images/silvana.jpg'
+import Silvana from '../../images/silvana2.jpg'
 import Silvio from '../../images/silvio.jpg'
 import Sandro from '../../images/sandro.jpg'
 import Samira from '../../images/samira.jpg'
